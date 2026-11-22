@@ -1,0 +1,24 @@
+# Python
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+backend/data/
+backend/.env
+
+# Frontend
+node_modules/
+dist/
+frontend/.env
+
+# Local documents and recordings
+*.pdf
+*.docx
+*.webm
+*.wav
+
+# Editors and OS
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db
